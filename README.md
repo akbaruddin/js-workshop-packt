@@ -1,2 +1,2 @@
-# js-workshop-packt
-JavaScript Workshop Packt
+# JavaScript Workshop Packt
+
